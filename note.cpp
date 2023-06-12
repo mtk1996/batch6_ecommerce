@@ -45,3 +45,8 @@ Domain Add
 a2ensite mmc-web.se.ke.conf
 a2distsite conf
 systemctl reload apache2
+
+
+
+
+git init
